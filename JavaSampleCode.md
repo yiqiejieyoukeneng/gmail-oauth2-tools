@@ -1,6 +1,6 @@
 # Using the Java sample code #
 
-the java sample code is available for browsing in the [repository](https://github.com/google/gmail-oauth2-tools/tree/master/java), and can also be downloaded in a [zip file](http://google-mail-oauth2-tools.googlecode.com/files/oauth2-java-sample-20120904.zip).
+the java sample code is available for browsing in the [repository](https://github.com/google/gmail-oauth2-tools/tree/master/java), and can also be downloaded in a [zip file](https://github.com/google/gmail-oauth2-tools/raw/downloads/oauth2-java-sample-20120904.zip).
 
 ## Prerequisites ##
 You'll need the following packages installed on your system to run the sample code:
@@ -8,11 +8,11 @@ You'll need the following packages installed on your system to run the sample co
   * JDK version 1.5 or higher
   * The JavaMail API version 1.4.5 or higher. This is available [alone](http://java.sun.com/products/javamail/) or as part of [Java EE](http://java.sun.com/javaee/).
   * [Apache Ant](http://ant.apache.org/)
-  * An OAuth Token and Token Secret for a Gmail account. You can use [oauth2.py](OAuth2DotPyRunThrough.md) to generate these for your own account.
+  * An OAuth Token and Token Secret for a Gmail account. You can use [[OAuth2DotPyRunThrough|OAuth2DotPyRunThrough]] to generate these for your own account.
 
 ## Downloading and configuring ##
 Download the sample code package from
-[here](http://google-mail-oauth2-tools.googlecode.com/files/oauth2-java-sample-20120904.zip), unzip it, and change into the `oauth2-java-sample-20120904` directory.
+[here](https://github.com/google/gmail-oauth2-tools/raw/downloads/oauth2-java-sample-20120904.zip), unzip it, and change into the `oauth2-java-sample-20120904` directory.
 
 Open the file `build.properties` in a text editor and modify the following properties:
 
