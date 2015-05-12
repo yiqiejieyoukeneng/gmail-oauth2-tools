@@ -26,7 +26,7 @@ Enter verification code:
 
 Visit the URL in your browser. You may need to login to Google. Then you should see a request to grant access to your application:
 
-![http://google-mail-oauth2-tools.googlecode.com/files/runthrough-access-request.png](http://google-mail-oauth2-tools.googlecode.com/files/runthrough-access-request.png)
+![](https://github.com/google/gmail-oauth2-tools/blob/wiki/runthrough-access-grant.png)
 
 Click the "Allow access" button, and you will be presented a verification code:
 
