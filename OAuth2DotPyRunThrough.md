@@ -26,11 +26,11 @@ Enter verification code:
 
 Visit the URL in your browser. You may need to login to Google. Then you should see a request to grant access to your application:
 
-![](https://github.com/google/gmail-oauth2-tools/blob/wiki/runthrough-access-grant.png)
+![](https://github.com/google/gmail-oauth2-tools/blob/wiki/runthrough-access-request.png)
 
 Click the "Allow access" button, and you will be presented a verification code:
 
-![http://google-mail-oauth2-tools.googlecode.com/files/runthrough-access-grant.png](http://google-mail-oauth2-tools.googlecode.com/files/runthrough-access-grant.png)
+![](https://github.com/google/gmail-oauth2-tools/blob/wiki/runthrough-access-grant.png)
 
 Copy that code and paste it in the `oauth2.py` script window, and hit `<Enter>`. `oauth2.py` will respond with a refresh token, temporary access token, and the temporary access token expiration time.
 
